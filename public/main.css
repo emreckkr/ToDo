@@ -1,0 +1,31 @@
+.box {
+    max-width: 400px;
+    margin: 20px auto;
+    background: white;
+    border-radius: 5px;
+    box-shadow: 5px 5px 15px -5px rgba(0, 0, 0, 0.3);
+  }
+#heading {
+    background-color: #a683e3;
+    text-align: center;
+    color: white;
+  }
+
+body{
+    background-color: #e4e9fd;
+}
+.date{
+    background-color: #a683e3;
+    color: white;
+}
+.add{
+    margin: 20px auto;
+    border-radius: 5px;
+    background-color: white;
+    box-shadow: 5px 5px 15px -5px rgba(0, 0, 0, 0.3);
+}
+
+.btn{
+    background-color: #a683e3;
+    color: white;
+}
